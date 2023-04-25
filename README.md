@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricardo Nuñez
 - 👀 I’m interested in New challenges
-- 🌱 I’m currently learning Full Stack programming
+- 🌱 I’m Full Stack Developer Java | React Js
 - 💞️ I’m looking for a job as Full Stack Developer Jr.
 - 📫 How to reach me ricardoj2811@gmail.com
 
